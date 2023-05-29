@@ -1,3 +1,3 @@
-## Olá!
+## Hello!
 
 - 🌱 Estudo algumas linguagens
