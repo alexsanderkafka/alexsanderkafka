@@ -1,3 +1,3 @@
 ## Hello!
 
-- 🌱 Estudo algumas linguagens
+- 🌱 I study some programming languagens
